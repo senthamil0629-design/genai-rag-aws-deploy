@@ -1,0 +1,7 @@
+streamlit
+python-docx
+pypdf
+pymilvus
+sentence-transformers
+ollama
+beautifulsoup4
